@@ -1,1 +1,1 @@
-*A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.*
+*A simple static resume webpage powered by Jekyll and GitHub pages.*
